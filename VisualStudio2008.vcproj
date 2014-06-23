@@ -169,6 +169,18 @@
 	<References>
 	</References>
 	<Files>
+		<Filter
+			Name="Project"
+			>
+			<File
+				RelativePath=".\src\Project.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\src\Project.h"
+				>
+			</File>
+		</Filter>
 		<File
 			RelativePath=".\src\main.cpp"
 			>
